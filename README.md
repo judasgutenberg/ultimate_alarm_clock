@@ -9,3 +9,5 @@ case Ahmed had used, though all the electronics were custom, including the firmw
 could tell tell, hold ten alarms, show brief messages, and (because I was making fun of the hypersensitivity-to-terrorism aspect of Ahmed's
 arrest) also count down and make various troubling sounds, such as explosions, the Muslim call to prayer, and a brief passage of Led
 Zeppelin's "Immigrant Song."
+
+The clock is still the chief timepiece in my "laboratory" (my home office).
