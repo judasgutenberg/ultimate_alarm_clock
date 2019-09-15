@@ -12,5 +12,7 @@ The clock is still the chief timepiece in my "laboratory" (my home office).
 
 
 Videos of the clock:
+
 https://youtu.be/kT6oG_7nxD8
+
 https://youtu.be/2AkxuKKAgK8
