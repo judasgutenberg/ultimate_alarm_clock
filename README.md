@@ -8,7 +8,7 @@ by batteries and took with me to Halloween parties, dressed in the NASA tee shir
 case Ahmed had used, though all the electronics were custom, including the firmware, which is the substance of this repository.  The clock, written in the Arduino IDE, could show time, hold ten alarms, show brief messages, and (because I was making fun of the hypersensitivity-to-terrorism aspect of Ahmed's arrest) also count down and make various troubling sounds, such as explosions, 
 the Muslim call to prayer, and a brief passage of Led Zeppelin's "Immigrant Song." (I wonder if the YouTube video has recieved a copyright strike.)
 
-The clock is still the chief timepiece in my "laboratory" (my home office).
+The clock is still the main timepiece in my "laboratory" (my home office).
 
 
 Videos of the clock:
