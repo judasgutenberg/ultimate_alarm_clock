@@ -15,3 +15,6 @@ Videos of the clock:
 https://youtu.be/kT6oG_7nxD8
 
 https://youtu.be/2AkxuKKAgK8
+
+Read about the incident that inspired this project:
+https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident
