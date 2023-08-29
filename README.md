@@ -1,5 +1,5 @@
 # ultimate_alarm_clock
-Originally designed as a parody of the Ahmed Mohamed clock that scandalized Texas in 2015.
+Originally designed as a parody of the Ahmed Mohamed clock, which was what a Texas scandal looked like way back in 2015, before the governor started shipping refugees to blue states in an effort to pwn the libs.
 
 
 I made this clock soon after the Ahmed Mohamed incident ( https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident ) to poke fun at the
