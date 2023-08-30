@@ -2,6 +2,9 @@
 Originally designed as a parody of the Ahmed Mohamed clock, which was what a Texas scandal looked like way back in 2015, before the governor started shipping refugees to blue states in an effort to pwn the libs.
 
 
+![alt text](ahmedmohamed.jpg?raw=true)
+
+
 I made this clock soon after the Ahmed Mohamed incident to poke fun at the
 reaction of school officials to Ahmed's crude re-packaging of a commodity digital alarm clock.  The clock I made (which I powered
 by batteries and took with me to Halloween parties, dressed in the NASA tee shirt Ahmed was arrested wearing) was in the exact same pencil
