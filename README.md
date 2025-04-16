@@ -1,5 +1,5 @@
 # ultimate_alarm_clock
-Originally designed as a parody of the Ahmed Mohamed clock, which was what a Texas scandal looked like way back in 2015, before the governor started shipping refugees to blue states in an effort to pwn the libs and women started dying in emergency rooms because doctors were terrified to extract dead foetuses that God insisted experience natural births.
+Originally designed as a parody of the Ahmed Mohamed clock, which was what a big-time Texas scandal looked like way back in 2015, before the governor started shipping refugees to blue states in an effort to pwn the libs and women started dying in emergency rooms because doctors were terrified to extract dead foetuses that God insisted experience natural births.
 
 Here's a picture of the legendary Ahmed Mohamed with his tiny wrists in a pair of handcuffs:
 
